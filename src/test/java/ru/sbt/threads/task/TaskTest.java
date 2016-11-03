@@ -7,6 +7,7 @@ import ru.sbt.threads.task.auxiliary.FailingAction;
 import ru.sbt.threads.task.auxiliary.SuccessfulAction;
 
 import java.util.ArrayList;
+import java.util.IllegalFormatCodePointException;
 import java.util.List;
 import java.util.concurrent.*;
 
